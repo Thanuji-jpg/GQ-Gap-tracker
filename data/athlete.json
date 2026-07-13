@@ -1,0 +1,22 @@
+{
+  "id": 146500155,
+  "id_str": "146500155",
+  "username": "tanuja_babu",
+  "resource_state": 2,
+  "firstname": "tanuja",
+  "lastname": "babu",
+  "bio": null,
+  "city": "West Springfield",
+  "state": "Massachusetts",
+  "country": "United States",
+  "sex": "F",
+  "premium": true,
+  "summit": true,
+  "created_at": "2024-09-02T13:54:48Z",
+  "updated_at": "2026-06-25T20:03:11Z",
+  "badge_type_id": 1,
+  "profile_medium": "https://lh3.googleusercontent.com/a/ACg8ocIapr4nsjqOO1T1JCPtJJO36v7TMQcjTeaEDhMhRSN5mrPWTQ=s96-c",
+  "profile": "https://lh3.googleusercontent.com/a/ACg8ocIapr4nsjqOO1T1JCPtJJO36v7TMQcjTeaEDhMhRSN5mrPWTQ=s96-c",
+  "friend": null,
+  "follower": null
+}
